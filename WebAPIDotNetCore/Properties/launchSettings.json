@@ -1,0 +1,22 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+
+  "profiles": {
+    "WebAPIDotNetCore": {
+      "applicationUrl": "http://localhost:6000",
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}  
+    //  "WebAPIDotNetCore": {
+    //    "commandName": "Project",
+    //    "dotnetRunMessages": "true",
+    //    "launchBrowser": true,
+    //    "launchUrl": "swagger",
+    //    "applicationUrl": "https://localhost:7001;http://localhost:7000",
+    //    "environmentVariables": {
+    //      "ASPNETCORE_ENVIRONMENT": "Development"
+    //    }
